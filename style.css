@@ -1,0 +1,10 @@
+/* ここにcssを書いてみましょう */
+#header {
+  width:300px; height:75px;
+  -moz-border-image: url("border.png") 15 round;
+  -webkit-border-image: url("border.png") 15 round;
+  -o-border-image: url("border.png") 15 round;
+  -ms-border-image: url("border.png") 15 round;
+  border-style:solid; border-width:20px; 
+}
+  
